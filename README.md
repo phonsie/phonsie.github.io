@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 <body bgcolor="#3636E0" text="#FFFFFF" font-size="8">
-<table border="0" width="920" align="center">
+<table bgcolor="#3636E0" border="0" width="920" align="center">
 <tr>
 	<td width="20%">
 	&nbsp;		
